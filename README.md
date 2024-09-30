@@ -37,7 +37,7 @@ A aplicação deve ser dividida em 2 serviços:
   [
       {
           "nome": "Guadalupe Halvorson",
-          "telefone": "303-894-5825 x80447",
+          "telefone": "303-894-5825",
           "id": "1"
       }
   ]
@@ -50,7 +50,7 @@ A aplicação deve ser dividida em 2 serviços:
   [
       {
           "nome": "Chad Roberts III",
-          "telefone": "1-881-293-8580 x96495",
+          "telefone": "881-293-8580",
           "email": "Isabell_Legros86@gmail.com",
           "id": "1"
       }
@@ -77,10 +77,10 @@ A aplicação deve ser dividida em 2 serviços:
   - Resposta:
   [
       {
-          "vendedor_id": "1",
-          "produto_id": "1",
-          "cliente_id": "1",
-          "id": "1"
+          "vendedor_id": "2",
+          "produto_id": "9",
+          "cliente_id": "12",
+          "id": "14"
       }
   ]
   ```
