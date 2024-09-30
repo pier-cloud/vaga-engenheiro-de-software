@@ -36,8 +36,8 @@ A aplicação deve ser dividida em 2 serviços:
   - Resposta:
   [
       {
-          "name": "June Kuphal",
-          "telefone": "(875) 478-1340",
+          "nome": "Guadalupe Halvorson",
+          "telefone": "303-894-5825 x80447",
           "id": "1"
       }
   ]
@@ -49,9 +49,9 @@ A aplicação deve ser dividida em 2 serviços:
   - Resposta:
   [
       {
-          "name": "Dr. Kenneth Toy",
-          "telefone": "(329) 491-0744",
-          "email": "Edythe.Runolfsson@yahoo.com",
+          "nome": "Chad Roberts III",
+          "telefone": "1-881-293-8580 x96495",
+          "email": "Isabell_Legros86@gmail.com",
           "id": "1"
       }
   ]
@@ -62,10 +62,9 @@ A aplicação deve ser dividida em 2 serviços:
   - Resposta:
   [
       {
-          "created_at": "2024-09-30T00:45:52.367Z",
-          "name": "Recycled Steel Computer",
-          "kind": "Shoes",
-          "price": "64.00",
+          "nome": "Recycled Steel Computer",
+          "tipo": "Shoes",
+          "preco": "64.00",
           "sku": "2188",
           "vendedor_id": "1",
           "id": "1"
@@ -78,10 +77,9 @@ A aplicação deve ser dividida em 2 serviços:
   - Resposta:
   [
       {
-          "created_at": "2024-09-30T17:55:04.391Z",
-          "vendedor_id": "8",
-          "produto_id": "7",
-          "cliente_id": "6",
+          "vendedor_id": "1",
+          "produto_id": "1",
+          "cliente_id": "1",
           "id": "1"
       }
   ]
