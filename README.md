@@ -81,7 +81,7 @@ A aplicação deve ser dividida em 2 serviços:
           "created_at": "2024-09-30T17:55:04.391Z",
           "vendedor_id": "8",
           "produto_id": "7",
-          "client_id": "6",
+          "cliente_id": "6",
           "id": "1"
       }
   ]
