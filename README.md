@@ -16,7 +16,7 @@ Esses requisitos são obrigatórios e devem ser desenvolvidos para a entrega do 
 
 ### Requisitos técnicos:
   - Linguagem de programação: Python, Go ou Node
-  - Utilizar Brocker de mensageria (Nats, RabbitMQ, Kafka, etc)
+  - Utilizar Broker de mensageria (Nats, RabbitMQ, Kafka, etc)
   - Utilizar README.md para documentação do projeto
 
 ### Requisitos Funcionais:
