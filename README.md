@@ -26,7 +26,7 @@ Esses requisitos são obrigatórios e devem ser desenvolvidos para a entrega do 
 
 ## Arquitetura
 A aplicação deve ser dividida em 2 serviços:
-  - Serviço 1 (Job): Deve consumir a API de Vendedores e publicar em um tópico do broker de mensageria.
+  - Serviço 1 (Job): Deve consumir a API de Vendedores e publicar uma mensagem por vendedor em um tópico do broker de mensageria.
   - Serviço 2 (Worker): Deve consumir o tópico do broker de mensageria, consumir a API de vendas, clientes e produtos, depois consolidar os dados em um relatório por vendedor. Ao final, exportar o relatório em um arquivo CSV para cada vendedor.
 
 ## Dados
